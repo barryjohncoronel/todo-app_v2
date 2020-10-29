@@ -1,1 +1,6 @@
-# todo-app_v2
+
+ ## Libraries, Frameworks, and Design Patterns  
+  
+- Model View ViewModel Pattern (**MVVM**)
+
+- Kotlin, Retrofit, RxJava, Room Database
